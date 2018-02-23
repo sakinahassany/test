@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "trying to create package with npm",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakinahassany/test.git"
+  },
+  "author": "Sakina Hassany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakinahassany/test/issues"
+  },
+  "homepage": "https://github.com/sakinahassany/test#readme"
+}
